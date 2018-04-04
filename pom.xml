@@ -16,6 +16,9 @@
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>teamware-tools</artifactId>
 	<version>8.5-SNAPSHOT</version>
+	
+	<name>Teamware Tools</name>
+	<description>A set of tools for dealing with corpora annotated via GATE Teamware</description>
 
 	<licenses>
 		<license>
